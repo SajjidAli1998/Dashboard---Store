@@ -2,6 +2,7 @@ Excited to share my latest achievement!
 🚀 I've crafted a comprehensive dashboard featuring a collection of data sets from Kaggle, specifically focusing on Supermarket Sales.
 
 📊 Supermarket Snapshot! 🚀 Exciting news from the data front:
+
 1️⃣ Top Performers:
 📈 Jan rocked with 135M revenue!
 💰 Health & Beauty rules with 42.1M profit.
@@ -16,6 +17,7 @@ Excited to share my latest achievement!
 👩‍🦰 Ladies lead with 53% - 27K purchases.
 
 Suggestion to the Supermarket Owner:
+
 🕵️‍♂️ Optimize Naypyitaw Strategy: Check why Naypyitaw sales are down and try some new ideas to get them back up.
 🚀 Promote High-Grossing Products: Shout about the awesome Health and Beauty stuff and maybe bundle some things together.
 🎯 City-Specific Marketing: Tailor ads for each city based on what they like.
